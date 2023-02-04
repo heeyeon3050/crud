@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
-@Getter @Setter
+@Getter @Setter //lombok 설치
 @AllArgsConstructor
 public class UserDTO {
     private String userName;
